@@ -87,7 +87,7 @@ Use the @ symbol followed by a document ID to include document content in your q
 
 Use the / prefix to execute commands defined in the MCP server
 
-###Acceptible Commands
+## Acceptible Commands
 
 Convert file to Markdown
 
