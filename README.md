@@ -1,6 +1,6 @@
-# MCP Chat
+# SecurityMCP
 
-MCP Chat is a command-line interface application that enables interactive chat capabilities with AI models through the Anthropic API. The application supports document retrieval, command-based prompts, and extensible tool integrations via the MCP (Model Control Protocol) architecture. There are security safeguards inside the MCP's instructions that block the reading of malicious files, only allowing you to edit them. 
+SecurityMCP is a command-line interface application based on Anthropic's Introduction to MCP course that enables interactive chat capabilities with AI models through the Anthropic API. The application supports document retrieval, command-based prompts, and extensible tool integrations via the MCP (Model Control Protocol) architecture. There are security safeguards inside the MCP's instructions that block the reading of malicious files, only allowing you to edit them. There is also the added capability of Security Risk Scanning via the Security+ command. 
 
 ## Prerequisites
 
